@@ -1,0 +1,12 @@
+.headerTop{
+  text-align: center;
+}
+
+.listInput{
+  display: inline-flex
+}
+
+.addition{
+  margin-left: 5px;
+  cursor: pointer;
+}
